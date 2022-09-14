@@ -1,6 +1,6 @@
 {
     "name": "guzzle/composer",
-    "description": "Use/Guzzle/to/receive/data/from/GitHub/API",
+    "description": "Use Guzzle to receive data from GitHub API",
     "license": "MIT",
     "autoload": {
         "psr-4": {
