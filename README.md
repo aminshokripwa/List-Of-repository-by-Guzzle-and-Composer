@@ -21,8 +21,8 @@ Ensure you create directory in your directory.
 
 `git clone https://github.com/aminshokripwa/List-Of-repository-by-Guzzle-and-Composer.git`
 
-## Download the packages used to create this rest API
-Run the following commands
+## Download the packages used to use it
+Run the following commands in cmd
 
 ```
 composer dump-autoload -o
