@@ -1,0 +1,14 @@
+{
+    "name": "guzzle/composer",
+    "description": "Use/Guzzle/to/receive/data/from/GitHub/API",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "aminshokripwa\\":"app/aminshokripwa"
+        }
+    },
+    "require": {
+        "php": ">=8.0.2",
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
