@@ -1,7 +1,13 @@
 {
     "name": "guzzle/composer",
-    "description": "Use Guzzle to receive data from GitHub API",
+    "description": "Use Guzzle to receive data and Show List of User's Repository in GitHub and export to csv , json , html",
     "license": "MIT",
+	"keywords": ["Guzzle", "User's Repository", "export to csv , json , html"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aminshokripwa/List-Of-repository-by-Guzzle-and-Composer.git"
+    },
+	"author": "aminshokripwa"
     "autoload": {
         "psr-4": {
             "aminshokripwa\\":"app/aminshokripwa"
